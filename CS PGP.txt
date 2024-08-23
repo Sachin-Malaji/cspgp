@@ -1,0 +1,37 @@
+Knowledge Management:
+https://docs.pega.com/bundle/customer-service/page/customer-service/constellation-implementation/knowledge/pega-knowledge-introduction-constellation.html 
+
+Client ID
+18302993811760817055
+Client Secret
+558B218B847576C9E6A685542E871523
+Authorization endpoint
+https://instellars03.pegalabs.io/prweb/PRRestService/oauth2/v1/authorize
+Access token endpoint
+https://instellars03.pegalabs.io/prweb/PRRestService/oauth2/v1/token
+Token revocation endpoint
+https://instellars03.pegalabs.io/prweb/PRRestService/oauth2/v1/revoke
+JWKS endpoint
+https://instellars03.pegalabs.io/prweb/PRRestService/oauth2/v1/token/keys
+Token introspection endpoint
+https://instellars03.pegalabs.io/prweb/PRRestService/oauth2/v1/token/introspect
+
+
+
+Communication Preference: Use from existing if possible.
+
+DWA
+
+Is all the Complainant documents verified
+Need any additional Information
+
+
+
+pgpcsr
+
+sachin.malaji@gmail.com
+JohnK: User
+JHenry: CSR Agent
+
+Emily: rules123 : PF account Officer
+Edward: PF Account Manager
